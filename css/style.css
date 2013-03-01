@@ -1,0 +1,27 @@
+
+.button
+{
+background-color: gray;
+color: black;
+font-family: Verdana, Arial
+}
+
+table,td,th
+{
+border:2px solid white;
+border-style: groove;
+}
+table
+{
+width:290px;
+}
+th
+{
+height:40px;
+}
+th
+{
+background-color:black;
+color:white;
+}
+
